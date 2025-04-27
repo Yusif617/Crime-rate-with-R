@@ -5,23 +5,14 @@ This repository contains an R script that performs a regression analysis to pred
 ## **Table of Contents**
 
 * [Project Description](#project-description)
-
 * [Dataset](#dataset)
-
 * [Methodology](#methodology)
-
 * [Prerequisites](#prerequisites)
-
 * [How to Run](#how-to-run)
-
 * [Key Steps in the Code](#key-steps-in-the-code)
-
 * [Results](#results)
-
 * [Visualizations](#visualizations)
-
 * [Future Improvements](#future-improvements)
-
 * [License](#license)
 
 ## **Project Description**
